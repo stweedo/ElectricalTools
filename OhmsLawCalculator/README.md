@@ -21,7 +21,7 @@ Before running the command, make sure you have the required Python package insta
 pip install tabulate
 ```
 
-After running the command, the script will start and prompt you to select what you want to calculate (Voltage, Current, Resistance, Power) and input the known variables.
+Run the script and select what you want to calculate (Voltage, Current, Resistance, Power) and input the known variables.
 
 For Windows users, a convenient batch file is provided. Simply double-click it or run it from the command prompt.
 
