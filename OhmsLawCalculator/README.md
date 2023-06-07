@@ -25,6 +25,6 @@ After running the command, the script will start and prompt you to select the qu
 
 For Windows users, a convenient batch file is provided. Simply double-click it or run it from the command prompt.
 
-For Linux users, you can use the provided bash script.
+For Linux users, you can use the provided bash script and run it from the terminal like so `./simple_ohms_law_calculator.sh`.
 
 That's it! Enjoy using the Simple Ohm's Law Calculator.
