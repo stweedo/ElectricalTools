@@ -11,7 +11,7 @@ Make sure you have Python 3 installed on your system.
 Run the script directly from your Python environment using the following command:
 
 ```
-python -c "import urllib.request; exec(urllib.request.urlopen('https://github.com/stweedo/ElectricalTools/raw/main/OhmsLawCalculator/simple_ohms_law_calculator.py').read())"
+python3 -c "import urllib.request; exec(urllib.request.urlopen('https://github.com/stweedo/ElectricalTools/raw/main/OhmsLawCalculator/simple_ohms_law_calculator.py').read())"
 ```
 
 Before running the command, make sure you have the required Python package installed. You can install it using pip:
