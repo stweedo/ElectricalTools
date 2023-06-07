@@ -6,7 +6,7 @@
 
 Make sure you have Python 3 installed on your system.
 
-Before running the command, make sure you have the required Python package installed. You can install it using pip:
+Before running the script, make sure you have the required Python package installed. You can install it using pip:
 
 `pip install tabulate`
 
