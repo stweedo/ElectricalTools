@@ -1,5 +1,6 @@
 from tabulate import tabulate
 import sys
+import time
 
 VOLTAGE = "Voltage (V)"
 CURRENT = "Current (I)"
@@ -56,6 +57,7 @@ class QuitException(Exception):
 def check_quit(user_input):
     if user_input.upper() == 'Q':
         print("\nThank you for using the Ohm's Law Calculator!")
+        time.sleep(2)
         raise QuitException
 
 def get_user_choice(options):
